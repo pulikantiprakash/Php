@@ -1,8 +1,7 @@
 <?php
 /**
 * Author: Prakash Pulikanti
-* Created on: 13th july 2015 
-* Usage: Wrap word  
+* Created on: 13th july 2015  
 * @parm $string, word split length
 * return wrapped string
 **/
